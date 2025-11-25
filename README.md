@@ -20,15 +20,16 @@
 <a href=""><img title="https://github.com/FlameVortex" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 <a href="https://www.instagram.com/flamevortex7/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 <p align="center">
-<a href="https://github.com/FlameVortex/Encryption"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=FlameVortex&repo=grabcam&theme=radical"></a>
-<a href="https://github.com/FlameVortex/Nagad"><img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=FlameVortex&repo=mrphish&theme=highcontrast"></a>
-<a href="https://github.com/FlameVortex/_FlameVortex"><img title="kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=FlameVortex&repo=kalimux&theme=vision-friendly-dark"></a>
-<a href="https://github.com/FlameVortex/IP_UNBLOCK"><img title="ipdrone" src="https://github-readme-stats.vercel.app/api/pin/?username=FlameVortex&repo=ipdrone&theme=highcontrast"></a>
+<a href="https://github.com/FlameVortex/Encryption"><img title="grabcam" src="https://img.shields.io/badge/Encryption-blue?style=for-the-badge&logo=GitHub"></a>
+<a href="https://github.com/FlameVortex/Nagad"><img title="mrphish" src="https://img.shields.io/badge/Nagad-highcontrast?style=for-the-badge&logo=GitHub"></a>
+<a href="https://github.com/FlameVortex/boomber"><img title="kalimux" src="https://img.shields.io/badge/bomber-black?style=for-the-badge&logo=GitHub"></a>
+<a href="https://github.com/FlameVortex/IP_UNBLOCK"><img title="ipdrone" src="https://img.shields.io/badge/IP_UNBLOCK-yellow?style=for-the-badge&logo=GitHub"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/FlameVortex"><img title="FlameVortex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlameVortex&layout=compact"></a>
+<a href="https://img.shields.io/badge/_FlameVortex-black?style=for-the-badge&logo=GitHub"></a>
 </p>
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=34F72A&random=false&width=435&lines=%F0%9D%9A%83%F0%9D%99%B7%F0%9D%99%B0%F0%9D%99%BD%F0%9D%99%BA+%F0%9D%9A%88%F0%9D%99%BE%F0%9D%9A%84)](https://git.io/typing-svg)
