@@ -1,5 +1,5 @@
 ## Hey, Guy's 😎
-<p align="center"><img src="https://github.com/user-attachments/assets/0f47b755-fda0-43d8-bb2a-b98dbe4e6b0f" alt="Bt">
+<p align="center"><img src="https://github.com/user-attachments/assets/d456d269-e2c2-4e38-a2e0-4d5d0047961a" alt="Bt">
 
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
