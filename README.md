@@ -7,6 +7,7 @@
 </p>
   
 ### KNOW MORE ABOUT ME>>>>
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/InsecureRepentantBoar-max-1mb.gif">
 <p align="center"><a href="https://github.com/FlameVortex"><img title="Flame Vortex" src="https://img.shields.io/badge/_FlameVortex-black?style=for-the-badge&logo=GitHub"></a>
 </p>
 
