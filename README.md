@@ -36,4 +36,3 @@
 
 
 
-[![Screenshot-20240107-064240.jpg](https://i.postimg.cc/cHZLKsf7/IMG-20240227-233920.jpg)](https://postimg.cc/06WsF1Wr)
