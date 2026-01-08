@@ -1,5 +1,5 @@
 ## Hey, Guy's 😎
-<p align="center"><img src="https://github.com/user-attachments/assets/d456d269-e2c2-4e38-a2e0-4d5d0047961a" alt="Bt">
+<p align="center"><img src="https://github.com/user-attachments/assets/57d4ee5c-ce66-479e-a584-c162b321efab" alt="Bt">
 
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
@@ -33,6 +33,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=34F72A&random=false&width=435&lines=%F0%9D%9A%83%F0%9D%99%B7%F0%9D%99%B0%F0%9D%99%BD%F0%9D%99%BA+%F0%9D%9A%88%F0%9D%99%BE%F0%9D%9A%84)](https://git.io/typing-svg)
+
 
 
 
