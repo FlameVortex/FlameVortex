@@ -17,7 +17,7 @@
 
 <p align="center">
 <a href="https://t.me/FlameVortex_TRS"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://flamevortex.rf.gd/"><img title="Website" src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/FlameVortex/"><img title="Website" src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=github"></a>
 <a href="https://www.instagram.com/flamevortex_trs/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 <p align="center">
 <a href="https://github.com/FlameVortex/tracker"><img title="grabcam" src="https://img.shields.io/badge/tracker-%23B30000?style=for-the-badge&logo=GitHub"></a>
